@@ -1,3 +1,13 @@
+---
+layout: post
+title: "A Method For Resending Hold Notification Emails"
+categories: code
+tags: evergreen sql
+ticketnos: 
+excerpt: "Notifications were not set up for go live. We went back and emailed folks who missed out."
+---
+
+{% highlight sql %}
 CREATE TABLE m_scenic.email_notify (
   hold INT,
   email TEXT,
@@ -47,3 +57,9 @@ UPDATE m_scenic.email_notify SET
   WHERE hold IN (
     SELECT hold FROM action.hold_notification 
       WHERE method = 'SendEmail' AND note = 'sent manually');
+
+SELECT setval('asset.copy_note_id_seq', (
+  SELECT max(id) FROM asset.copy_note)
+  );
+
+{% endhighlight %}

@@ -1,5 +1,6 @@
 name: Notes
 markdown: redcarpet
 pygments: true
+paginate: 10
 ticket_url: 'http://help.mobiusconsortium.org/Ticket/Display.html?id='
 excerpt_separator: 'jnqw45opusdzgnbh808q345'
