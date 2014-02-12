@@ -3,7 +3,7 @@ layout: post
 title: "Naughty IP Addresses to Block"
 categories: networking
 tags: networking yandex baidu
-ticketnos: 43731
+ticketnos: ['43731']
 excerpt: "Troublesome search spiders breaking our stuff"
 ---
 
