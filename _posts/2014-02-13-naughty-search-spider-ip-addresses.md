@@ -9,6 +9,7 @@ excerpt: "Troublesome search spiders breaking our stuff"
 
 We were seeing a huge number of requests coming from Baidu/Yandex so we blocked all their known IP ranges.
 
+{% highlight bash %}
 61.135.0.0-61.135.63.255
 77.91.224.0-77.91.224.255
 77.135.0.0-77.135.63.255
@@ -24,3 +25,4 @@ We were seeing a huge number of requests coming from Baidu/Yandex so we blocked 
 213.180.192.0-213.180.223.255
 220.181.0.0 - 220.181.63.255
 220.181.108.0-220.181.108.255
+{% endhighlight %}
