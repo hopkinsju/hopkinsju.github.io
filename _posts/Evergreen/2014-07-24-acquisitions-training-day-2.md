@@ -70,7 +70,7 @@ Hit reload to see the new fund.
 
 Go back to Funding Sources and click the name of the source. Hit Apply Credit to add money to that source.
 
-Then Allocate to a fund using dropdown. 
+Then Allocate to a fund using dropdown.
 
 You can transfer between funds betwee
 
@@ -81,7 +81,7 @@ You can transfer between funds betwee
 * Enter default claim policy
 * Holding subfield - for records that come from vendors with holdings information in the MARC. At the very least you have to coose owning_lib. Holdings tag is defined earlier, this is just the subfield.
 
-## Line Item Alert Text
+## Line Item Texts
 
 * Code
 * Description
