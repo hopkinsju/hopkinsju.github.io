@@ -8,6 +8,7 @@ excerpt: "Third day of SITKA Acq training, going over the staff (non-admin) func
 ---
 
 Useful:
+
 * [SITKA Acquisitions Manual (PDF)](http://docs.sitka.bclibraries.ca/Acq/current/pdf/Sitka_Acquisitions_Manual.pdf)
 * Acquisitions -> General Search is super powerful/flexible. It can search almost anything in acquisitions.
 
