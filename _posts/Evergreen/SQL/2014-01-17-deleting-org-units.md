@@ -3,7 +3,7 @@ layout: post
 title: "Deleting org units"
 categories: code
 tags: evergreen sql
-ticketnos: ['12345', '54321']
+ticketnos: 
 excerpt: "blowing away org units can be tricky if you've done anything with them..."
 ---
 
