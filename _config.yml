@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Justin Hopkins
+#tagline:          'A Jekyll theme'
+description:      'An IT professional with a website'
+url:              https://jhopkins.io
+baseurl:          /
+
+author:
+  name:           'Justin Hopkins'
+  url:            https://github.com/hopkinsju
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/hopkinsju/hopkinsju.github.io
