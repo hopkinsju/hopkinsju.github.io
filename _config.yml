@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Justin Hopkins
 #tagline:          'A Jekyll theme'
 description:      'An IT professional with a website'
-url:              https://jhopkins.io
+url:              http://jhopkins.io
 baseurl:          /
 
 author:
@@ -20,7 +20,7 @@ paginate:         5
 
 # Custom vars
 #version:          2.0.1
-resume:           https://jhopkins.io/public/justin-hopkins-systems-administrator-resume.doc
+resume:           http://jhopkins.io/public/justin-hopkins-systems-administrator-resume.doc
 ga_tracking_id:   UA-71941066-1
 
 github:
