@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Justin Hopkins
@@ -21,7 +20,7 @@ paginate:         5
 
 # Custom vars
 #version:          2.0.1
-resume:           public/justin-hopkins-systems-administrator-resume.doc
+resume:           https://jhopkins.io/public/justin-hopkins-systems-administrator-resume.doc
 ga_tracking_id:   UA-71941066-1
 
 github:
