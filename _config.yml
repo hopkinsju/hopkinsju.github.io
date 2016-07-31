@@ -21,7 +21,7 @@ paginate:         5
 
 # Custom vars
 #version:          2.0.1
-resume:           http://stackoverflow.com/cv/jhopkins
+resume:           public/justin-hopkins-systems-administrator-resume.doc
 ga_tracking_id:   UA-71941066-1
 
 github:
